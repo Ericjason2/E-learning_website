@@ -66,7 +66,7 @@ const Header = () => {
             ))}
           </ul>
 
-          {/* login btn */}
+          {/* Lg login btn */}
           <button className="max-lg:hidden primary-btn">Login</button>
         </div>
       </div>
