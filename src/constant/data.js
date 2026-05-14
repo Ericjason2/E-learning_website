@@ -228,17 +228,17 @@ export const contactInfo = [
   {
     id: 1,
     icon: RiPhoneFill,
-    label: "hello@skillbridge.com",
+    label: "contact@skillbridge.com",
   },
   {
     id: 2,
     icon: RiMailSendFill,
-    label: "+91 91813 23 2309",
+    label: "+237 656 432 472",
   },
   {
     id: 3,
     icon: RiUserLocationLine,
-    label: "Somewhere in the World",
+    label: "Douala, Cameroon",
   },
 ];
 
