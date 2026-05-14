@@ -6,7 +6,7 @@ import * as variants from "../motion/animation";
 
 const Title = ({ title, text, link }) => {
   return (
-    <div className="flex items-centerjustify-between flex-wrap gap-4">
+    <div className="flex items-center justify-between flex-wrap gap-4">
       <div>
         <motion.h2 variants={variants.fadeInUp}>{title}</motion.h2>
         <motion.p
