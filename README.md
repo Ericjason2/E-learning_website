@@ -71,7 +71,7 @@ Un site web d'e-learning moderne et responsive construit avec **React** et **Vit
 1. **Cloner le repository**
 
    ```bash
-   git clone https://github.com/votre-profil/e-learning_website.git
+   git clone https://github.com/Ericjason2/E-learning_website.git
    cd e-learning_website
    ```
 
@@ -184,12 +184,6 @@ Les contributions sont les bienvenues ! Pour contribuer :
 3. Commiter vos changements (`git commit -m 'Add some AmazingFeature'`)
 4. Pousser vers la branche (`git push origin feature/AmazingFeature`)
 5. Ouvrir une Pull Request
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
-
----
 
 ## Support
 
